@@ -1,0 +1,23 @@
+{
+  "name": "furniture-api",
+  "version": "1.0.0",
+  "description": "Furniture API open source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anazabalo/Furniture-API.git"
+  },
+  "author": "Ana Zabalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anazabalo/Furniture-API/issues"
+  },
+  "homepage": "https://github.com/anazabalo/Furniture-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
